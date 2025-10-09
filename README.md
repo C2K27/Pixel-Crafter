@@ -1,5 +1,5 @@
 ## Pixel Crafter 🎨
-https://pixel-crafter.netlify.app/
+[Work in Progress] https://pixel-crafter.netlify.app/
 
 <img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/3de94839-fa61-4494-a46a-3c1028ca1b08" />
 
