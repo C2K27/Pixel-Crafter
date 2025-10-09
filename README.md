@@ -1,7 +1,8 @@
 ## Pixel Crafter 🎨
 [Work in Progress] https://pixel-crafter.netlify.app/
 
-<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/9c41c8f9-6643-425a-be0f-0635130efac5" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/3de94839-fa61-4494-a46a-3c1028ca1b08" />
+
 
 A super easy pixel art editor with a bright liquid-glass look, precise zoom/pan, and handy import/export tools.
 
